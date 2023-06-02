@@ -1,4 +1,6 @@
 
+![Logo](https://github-readme-stats.vercel.app/api?username=yuvaneshkm&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+
 # Hi, I'm Yuvanesh! 👋
 
 
@@ -22,8 +24,4 @@ I believe that data science has the power to transform businesses and improve pe
 * PowerBI
 * Machine Learning
 
-
-## My stats..
-
-![Logo](https://github-readme-stats.vercel.app/api?username=yuvaneshkm&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
