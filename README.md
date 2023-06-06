@@ -17,7 +17,9 @@ I believe that data science has the power to transform businesses and improve pe
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvanesh-k-m-48512b279/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yuvaneshkm)
 
-[![K](https://img.shields.io/badge/Kaggle-0A66C2?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/yuvaneshkm)
+[![Kaggle](https://img.shields.io/badge/Kaggle-0A66C2?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/yuvaneshkm)
+
+[![Hackerrank](https://img.shields.io/badge/Hackerrank-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.hackerrank.com/yuvaneshkm05?hr_r=1)
 
 
 ## 🛠 Skills
