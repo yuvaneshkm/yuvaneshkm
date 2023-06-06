@@ -20,7 +20,6 @@ I believe that data science has the power to transform businesses and improve pe
 
 ## 🛠 Skills
 * Python
-* SQL
 * PowerBI
 * Machine Learning
 
