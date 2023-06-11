@@ -1,13 +1,11 @@
 
-![Logo](https://github-readme-stats.vercel.app/api?username=yuvaneshkm&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
-
 # Hi, I'm Yuvanesh! 👋
 
 
 ## 🚀 About Me
-Myself Yuvanesh. I'm currently pursuing 2nd year B.Tech ( Computer Science and Business Systems ) at Panimalar Institute of Technology, Chennai.
+Myself Yuvanesh !
 
-I'm an enthusiastic engineering student with deep passion for exploring the world through data. As a data student I constantly seeking out new knowledge and skills to improve my ability to work with real time data.
+I'm an enthusiastic DataScience student with deep passion for exploring the world through data. As a data student I constantly seeking out new knowledge and skills to improve my ability to work with real time data.
 
 I believe that data science has the power to transform businesses and improve people's lives, and I am excited to be a part of this rapidly growing field.
 
