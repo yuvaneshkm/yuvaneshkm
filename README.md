@@ -22,8 +22,6 @@ I am seeking opportunities to contribute to data-driven projects and collaborate
 [![Hackerearth](https://img.shields.io/badge/hackerearth-1DA1F2?style=for-the-badge&logo=Hackerearth&logoColor=white)](https://www.hackerearth.com/@yuvanesh11)
 
 ## 🛠 Skills
-* Python
-* PowerBI
-* Machine Learning
+1. Python
 
 
