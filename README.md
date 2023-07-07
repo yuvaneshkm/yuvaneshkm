@@ -23,5 +23,8 @@ I am seeking opportunities to contribute to data-driven projects and collaborate
 
 ## 🛠 Skills
 1. Python
+2. Data cleaning
+3. Data Exploration
+4. Data Visualization
 
 
