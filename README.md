@@ -1,6 +1,6 @@
 
 # Hi, I'm Yuvanesh! 👋
-Pre-final year student | Aspiring Data Scientist | Proficient in Python and skilled in data cleaning, exploration, and visualization
+**Pre-final year student | Aspiring Data Scientist | Proficient in Python and skilled in data cleaning, exploration, and visualization**
 
 
 ## 🚀 About Me
