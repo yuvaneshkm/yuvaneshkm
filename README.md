@@ -4,13 +4,8 @@
 
 
 ## 🚀 About Me
-As a dedicated and ambitious Data Science student, I am eager to embark on a career where I can apply my analytical skills to solve complex problems and derive meaningful insights. With a solid foundation in data analysis, machine learning, and statistics, I am proficient in Python. 
+As a Data Scientist and MLOps Engineer, I bridge the gap between data science and production, ensuring that innovative models not only get deployed but also perform efficiently in real-world environments. My passion lies in transforming raw data into actionable insights and seamlessly transition machine learning models from the development phase to production, ensuring they deliver consistent and impactful results.
 
-During my academic journey, I developed expertise in data cleaning, exploration, and visualization techniques, allowing me to effectively process and analyze large datasets. I am excited about leveraging cutting-edge tools and algorithms to uncover patterns, trends, and correlations that drive data-driven decision-making.
-
-A natural problem solver, I thrive in challenging environments where I can apply my critical thinking and logical reasoning abilities to extract valuable insights from complex datasets. I am constantly eager to learn and stay updated on the latest advancements in the field of data science, attending workshops and participating in online courses to enhance my skills.
-
-I am seeking opportunities to contribute to data-driven projects and collaborate with multidisciplinary teams to tackle real-world challenges. My goal is to leverage my technical skills and academic knowledge to make a meaningful impact by using data to drive innovation, optimize processes, and deliver tangible results.
 
 
 ## 🔗 Links
@@ -21,9 +16,18 @@ I am seeking opportunities to contribute to data-driven projects and collaborate
 [![Kaggle](https://img.shields.io/badge/Kaggle-0A66C2?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/yuvaneshkm)
 
 ## 🛠 Skills
-1. Python
-2. Data cleaning
-3. Data Exploration
-4. Data Visualization
+Technical Skills:
+• Programming: Expert in Python, with extensive experience in developing machine learning models and data pipelines.
+• Machine Learning: Proficient in leveraging frameworks like TensorFlow and scikit-learn to build and optimize predictive models.
+• MLOps: Skilled in deploying and managing machine learning models using Docker and GitHub Actions ensuring robust and scalable operations.
+• Databases: Experienced with MySQL and MongoDB for effective data storage, retrieval, and management.
+• Version Control & CI/CD: Proficient in Git and GitHub for version control and GitHub Actions for continuous integration/continuous deployment pipelines.
+• Operating Systems: Comfortable working in Linux environments, utilizing shell scripting and command-line tools for automation and system management.
 
+Professional Achievements:
+• Successfully developed and deployed machine learning models that significantly improved business processes and outcomes.
+• Implemented CI/CD pipelines using GitHub Actions, streamlining the deployment of machine learning models to production environments.
+• Designed and managed scalable data pipelines, ensuring the integrity and accessibility of critical data across various platforms.
+• Conducted comprehensive statistical analyses that informed strategic business decisions and optimized operational performance.
 
+## I am always eager to connect with professionals who share a passion for data science and MLOps. If you are interested in discussing machine learning, operational efficiency, or potential collaborations, feel free to reach out!
