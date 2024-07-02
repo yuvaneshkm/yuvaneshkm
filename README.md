@@ -16,6 +16,7 @@ As a Data Scientist and MLOps Engineer, I bridge the gap between data science an
 [![Kaggle](https://img.shields.io/badge/Kaggle-0A66C2?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/yuvaneshkm)
 
 ## 🛠 Skills
+```
 Technical Skills:
 • Programming: Expert in Python, with extensive experience in developing machine learning models and data pipelines.
 • Machine Learning: Proficient in leveraging frameworks like TensorFlow and scikit-learn to build and optimize predictive models.
@@ -29,5 +30,6 @@ Professional Achievements:
 • Implemented CI/CD pipelines using GitHub Actions, streamlining the deployment of machine learning models to production environments.
 • Designed and managed scalable data pipelines, ensuring the integrity and accessibility of critical data across various platforms.
 • Conducted comprehensive statistical analyses that informed strategic business decisions and optimized operational performance.
+```
 
 ## I am always eager to connect with professionals who share a passion for data science and MLOps. If you are interested in discussing machine learning, operational efficiency, or potential collaborations, feel free to reach out!
