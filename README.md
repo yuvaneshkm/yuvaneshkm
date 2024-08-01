@@ -6,13 +6,10 @@
 
 ## 🙋‍♂️ About Me
 
-- 👨‍💻 Here's my Portfolio**[yuvaneshkm](https://aniketh008.github.io/portfolio/)**
+- 👨‍💻 Here's my Portfolio **[yuvaneshkm](https://aniketh008.github.io/portfolio/)**
 
 - 🌱 I’m currently learning **Deep Learning and NLP**
 
-- 👯 I’m looking to collaborate on **Opensource Machine Learning Projects**
+- 👯 I’m looking to collaborate on **Machine Learning Projects**
 
-- 📫 How to reach me **yuvaneshkm05@gmail.com**
-
-- ⚡ Fun fact 
-**When I'm not diving into data and machine learning, you can find me listining to melody tunes.**
+- ⚡ Fun fact: **When I'm not diving into data and machine learning, you can find me listening to melody tunes.**
