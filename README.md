@@ -14,4 +14,4 @@
 
 - 📫 How to reach me **yuvaneshkm05@gmail.com**
 
-- ⚡ Fun fact **When I'm not diving into data and machine learning, you can find me listining to melody tunes. Music keeps my creativity flowing both in and out of the code!**
+- ⚡ Fun fact **When I'm not diving into data and machine learning, you can find me listining to melody tunes.**
