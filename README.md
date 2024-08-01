@@ -23,6 +23,8 @@
 <a href="https://matplotlib.org/stable/index.html" target="_blank"> <img height="50" width="50" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/matplotlib.png"/> </a>
 <a href="https://seaborn.pydata.org/" target="_blank"> <img height="50" width="50" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/seaborn.png"/> </a>
 
+<a href="https://plotly.com/python/" target="_blank"> <img height="50" width="95" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/plotly.png"/> </a>
+
 <a href="https://docs.python.org/3/" target="_blank"> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/> </a>
 
 
