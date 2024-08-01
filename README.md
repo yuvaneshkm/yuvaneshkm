@@ -32,6 +32,7 @@
 <a href="https://scikit-learn.org/stable/" target="_blank"> <img height="50" width="80" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/sklearn.png"/> </a>
 <a href="https://xgboost.readthedocs.io/en/latest/" target="_blank"> <img height="50" width="100" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/xgboost.png"/> </a>
 <a href="https://www.tensorflow.org/api_docs/python/tf/all_symbols" target="_blank"> <img height="50" width="50" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/tensorflow.png"/> </a>
+<a href="https://keras.io/api/" target="_blank"> <img height="50" width="50" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/keras.png"/> </a>
 
 
 
