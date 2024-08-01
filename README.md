@@ -60,12 +60,12 @@
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img height="50" width="50" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/pycharm.png"/> </a>
 <a href="https://www.anaconda.com/" target="_blank"> <img height="50" width="120" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/anaconda.png"/> </a>
 <a href="https://jupyter.org/" target="_blank"> <img height="55" width="55" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/jupyter.png"/> </a>
-
-
 <br/>
 
 ## 📊 My GitHub Stats
-<a href="https://github.com/yuvaneshkm/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yuvanesh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvaneshkm&theme=react&hide_border=true&bg_color=0D1117"/></a> 
+<p align="center">
+<a href="https://github.com/yuvaneshkm/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yuvanesh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvaneshkm&theme=react&hide_border=true&bg_color=0D1117"/></a>
+</p>
 
 <a href="https://github.com/yuvaneshkm/github-readme-stats"><img alt="Yuvanesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yuvaneshkm&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> <a href="https://github.com/yuvaneshkm/github-readme-stats"><img alt="Yuvanesh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvaneshkm&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
