@@ -20,17 +20,17 @@
 <a href="https://docs.python.org/3/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
 <a href="https://www.w3schools.com/sql/default.asp" target="_blank"> <img height="50" width="50" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/sql.png"/> </a>
 
-
 <a href="https://numpy.org/doc/" target="_blank"> <img height="50" width="50" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/numpy.png"/> </a>
 <a href="https://scipy.org/" target="_blank"> <img height="50" width="50" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/scipy.png"/> </a>
-
-
 <a href="https://pandas.pydata.org/docs/" target="_blank"> <img height="50" width="95" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/pandas.png"/> </a>
+
 <a href="https://matplotlib.org/stable/index.html" target="_blank"> <img height="50" width="50" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/matplotlib.png"/> </a>
 <a href="https://seaborn.pydata.org/" target="_blank"> <img height="50" width="50" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/seaborn.png"/> </a>
 <a href="https://plotly.com/python/" target="_blank"> <img height="50" width="120" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/plotly.png"/> </a>
 
 <a href="https://scikit-learn.org/stable/" target="_blank"> <img height="50" width="80" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/sklearn.png"/> </a>
+<a href="https://xgboost.readthedocs.io/en/latest/" target="_blank"> <img height="50" width="100" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/xgboost.png"/> </a>
+
 
 <a href="https://docs.python.org/3/" target="_blank"> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/> </a>
 
