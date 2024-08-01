@@ -18,4 +18,4 @@
 
 ## 🧑‍💻 I Code in
 <a href="https://docs.python.org/3/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-<a style="padding-right:8px;" href="https://dev.mysql.com/doc/" target="_blank"> <img src="https://image.shutterstock.com/image-vector/sql-structured-query-language-database-260nw-323492558.jpg"/> </a>
+<a style="padding-right:8px;" href="https://dev.mysql.com/doc/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
