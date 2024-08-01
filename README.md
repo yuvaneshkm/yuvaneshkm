@@ -55,13 +55,13 @@
 <a href="https://dvc.org/doc" target="_blank"> <img height="55" width="75" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/dvc.png"/> </a>
 <a href="https://dagshub.com/yuvaneshkm" target="_blank"> <img height="55" width="115" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/dagshub.png"/> </a>
 <a href="https://airflow.apache.org/docs/apache-airflow/2.0.2/python-api-ref.html" target="_blank"> <img height="55" width="115" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/airflow.png"/> </a>
-
+<br/>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
 <p align="center">
-    <a href="https://github.com/aniketh008/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aniketh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketh008&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/yuvaneshkm/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yuvanesh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketh008&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
