@@ -20,7 +20,6 @@
 <a href="https://docs.python.org/3/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
 
 
-### 🛠️ Libraries and Frameworks
 <a href="https://docs.python.org/3/" target="_blank"> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/> </a>
 
 
