@@ -18,11 +18,13 @@
 
 ## 🧑‍💻 I Code in
 <a href="https://docs.python.org/3/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
+
+
+### 🛠️ Libraries and Frameworks
 <a href="https://docs.python.org/3/" target="_blank"> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/> </a>
 
 
-
-
+## 🛢 Databases I use
 <a style="padding-right:8px;" href="https://dev.mysql.com/doc/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
 <a style="padding-right:8px;" href="https://www.mongodb.com/docs/" target="_blank"> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> </a>
 
