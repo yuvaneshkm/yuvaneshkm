@@ -69,25 +69,6 @@
 
 
 
-![Upendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=imkushwaha&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imkushwaha&hide_progress=false)](https://github.com/imkushwaha/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvaneshkm&hide_progress=false)](https://github.com/yuvaneshkm/github-readme-stats)
 
-<!-- links to social media icons -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png "twitter icon with padding"
-[2.1]: http://i.imgur.com/0o48UoR.png "github icon with padding"
-
-<!-- icons without padding -->
-
-[1.2]: https://i.imgur.com/wWzX9uB.png "twitter icon without padding"
-[2.2]: https://i.imgur.com/9I6NRUm.png "github icon without padding"
-[3.2]: https://i.imgur.com/dgXzJ9j.png "LinkedIn icon without padding"
-
-<!-- links to your social media accounts -->
-
-[1]: https://twitter.com/i_mkushwaha
-[2]: https://github.com/imkushwaha
-[3]: https://www.linkedin.com/in/imupendra/
