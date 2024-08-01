@@ -5,9 +5,8 @@
 <h3 align="center">Bridging the Gap between Data Science and Production</h3>
 
 ## 🙋‍♂️ About Me
-**As a Data Scientist and MLOps Engineer, I bridge the gap between data science and production, ensuring that innovative models not only get deployed but also perform efficiently in real-world environments. My passion lies in transforming raw data into actionable insights and seamlessly transition machine learning models from the development phase to production, ensuring they deliver consistent and impactful results.**
 
-- 🌱 I’m currently learning **Data Science and Machine Learning.**
+- 🌱 I’m currently learning **Deep Learning and NLP**
 
 - 👯 I’m looking to collaborate on **Opensource Machine Learning Projects**
 
