@@ -4,6 +4,7 @@
 <h3 align="center"> Data Scientist | MLOps Engineer </h3>
 <h3 align="center">Bridging the Gap between Data Science and Production</h3>
 
+
 ## 🙋‍♂️ About Me
 
 - 👨‍💻 Here's my Portfolio **[yuvaneshkm](https://aniketh008.github.io/portfolio/)**
@@ -13,3 +14,7 @@
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
 - ⚡ Fun fact: **When I'm not diving into data and machine learning, you can find me listening to melody tunes.**
+
+
+## 🧑‍💻 Languages I Code
+<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
