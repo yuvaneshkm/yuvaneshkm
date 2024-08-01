@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 👨‍💻 Here's my Portfolio **[yuvaneshkm](https://aniketh008.github.io/portfolio/)**
+- 👨‍💻 Here's my Portfolio **[yuvaneshkm](https://github.com/yuvaneshkm)**
 
 - 🌱 I’m currently learning **Deep Learning and NLP**
 
