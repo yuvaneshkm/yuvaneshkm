@@ -65,7 +65,7 @@
 <br/>
 
 ## 📊 My GitHub Stats
-<a href="https://github.com/yuvaneshkm/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yuvanesh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvaneshkm&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a> 
+<a href="https://github.com/yuvaneshkm/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yuvanesh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvaneshkm&theme=react&hide_border=true&stroke=0000&background=060A0CD0"/></a> 
 
 <a href="https://github.com/yuvaneshkm/github-readme-stats"><img alt="Yuvanesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yuvaneshkm&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> <a href="https://github.com/yuvaneshkm/github-readme-stats"><img alt="Yuvanesh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvaneshkm&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
