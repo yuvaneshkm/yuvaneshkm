@@ -23,7 +23,7 @@
 <a href="https://numpy.org/doc/" target="_blank"> <img height="50" width="50" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/numpy.png"/> </a>
 <a href="https://scipy.org/" target="_blank"> <img height="50" width="50" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/scipy.png"/> </a>
 <a href="https://pandas.pydata.org/docs/" target="_blank"> <img height="50" width="95" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/pandas.png"/> </a>
-<a href="https://www.nltk.org/" target="_blank"> <img height="50" width="50" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/nltk.png"/> </a>
+<a href="https://www.nltk.org/" target="_blank"> <img height="65" width="65" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/nltk.png"/> </a>
 
 
 <a href="https://matplotlib.org/stable/index.html" target="_blank"> <img height="50" width="50" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/matplotlib.png"/> </a>
