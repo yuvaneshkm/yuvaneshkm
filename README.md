@@ -20,7 +20,7 @@
 <a href="https://docs.python.org/3/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
 
 
-<a href="https://numpy.org/doc/" target="_blank"> <img height="50" width="50" src="https://w7.pngwing.com/pngs/134/662/png-transparent-numpy-hd-logo.png"/> </a>
+<a href="https://numpy.org/doc/" target="_blank"> <img height="50" width="50" src="https://user-images.githubusercontent.com/50221806/86498175-86c40400-bd39-11ea-90de-1315a043fd45.png"/> </a>
 <a href="https://docs.python.org/3/" target="_blank"> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/> </a>
 
 
