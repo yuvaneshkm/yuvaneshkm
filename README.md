@@ -27,6 +27,7 @@
 <a href="https://matplotlib.org/stable/index.html" target="_blank"> <img height="50" width="50" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/matplotlib.png"/> </a>
 <a href="https://seaborn.pydata.org/" target="_blank"> <img height="50" width="50" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/seaborn.png"/> </a>
 <a href="https://plotly.com/python/" target="_blank"> <img height="50" width="120" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/plotly.png"/> </a>
+<a href="https://learn.microsoft.com/en-us/power-bi/" target="_blank"> <img height="50" width="50" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/powerbi.png"/> </a>
 
 <a href="https://scikit-learn.org/stable/" target="_blank"> <img height="50" width="80" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/sklearn.png"/> </a>
 <a href="https://xgboost.readthedocs.io/en/latest/" target="_blank"> <img height="50" width="100" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/xgboost.png"/> </a>
