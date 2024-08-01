@@ -55,6 +55,8 @@
 <a href="https://dvc.org/doc" target="_blank"> <img height="55" width="75" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/dvc.png"/> </a>
 <a href="https://dagshub.com/yuvaneshkm" target="_blank"> <img height="55" width="115" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/dagshub.png"/> </a>
 <a href="https://airflow.apache.org/docs/apache-airflow/2.0.2/python-api-ref.html" target="_blank"> <img height="55" width="115" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/airflow.png"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img height="50" width="100" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/vscode.png"/> </a>
+
 <br/>
 
 ## 📊 My GitHub Stats
