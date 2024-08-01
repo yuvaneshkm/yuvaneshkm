@@ -21,6 +21,7 @@
 
 <a href="https://numpy.org/doc/" target="_blank"> <img height="50" width="50" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/numpy.png"/> </a>
 <a href="https://pandas.pydata.org/docs/" target="_blank"> <img height="50" width="95" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/pandas.png"/> </a>
+<a href="https://matplotlib.org/stable/index.html" target="_blank"> <img height="50" width="50" src=""/> </a>
 
 
 <a href="https://docs.python.org/3/" target="_blank"> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/> </a>
