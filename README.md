@@ -38,6 +38,7 @@
 <a href="https://keras.io/api/" target="_blank"> <img height="50" width="50" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/keras.png"/> </a>
 
 <a href="https://docs.streamlit.io/" target="_blank"> <img height="50" width="110" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/streamlit.png"/> </a>
+<a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"> <img height="50" width="110" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/flask.png"/> </a>
 
 
 ## 🛢 Databases
