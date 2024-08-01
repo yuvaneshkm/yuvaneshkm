@@ -5,7 +5,7 @@
 <h3 align="center">Bridging the Gap between Data Science and Production</h3>
 
 
-# 🙋‍♂️ About Me
+## 🙋‍♂️ About Me
 
 - 👨‍💻 Here's my Portfolio **[yuvaneshkm](https://aniketh008.github.io/portfolio/)**
 
@@ -16,7 +16,7 @@
 - ⚡ Fun fact: **When I'm not diving into data and machine learning, you can find me listening to melody tunes.**
 
 
-# 🧑‍💻 I Code in
+## 🧑‍💻 I Code in
 <a href="https://docs.python.org/3/" target="_blank"> <img height="50" width="50" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/python.png"/> </a>
 <a href="https://www.w3schools.com/sql/default.asp" target="_blank"> <img height="50" width="50" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/sql.png"/> </a>
 
@@ -41,13 +41,13 @@
 
 
 
-# 🛢 Databases I use
+## 🛢 Databases I use
 <a style="padding-right:8px;" href="https://dev.mysql.com/doc/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
 <a style="padding-right:8px;" href="https://www.mongodb.com/docs/" target="_blank"> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> </a>
 
  
 
-# 🛠️ Tools I Use
+## 🛠️ Tools I Use
 
 
 
