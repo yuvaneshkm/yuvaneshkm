@@ -59,7 +59,7 @@
 <a href="https://code.visualstudio.com/" target="_blank"> <img height="50" width="50" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/vscode.png"/> </a>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img height="50" width="50" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/pycharm.png"/> </a>
 <a href="https://www.anaconda.com/" target="_blank"> <img height="50" width="120" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/anaconda.png"/> </a>
-
+<a href="https://jupyter.org/" target="_blank"> <img height="50" width="120" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/jupyter.png"/> </a>
 
 
 <br/>
