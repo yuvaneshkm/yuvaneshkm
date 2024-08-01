@@ -55,10 +55,9 @@
 <a href="https://dvc.org/doc" target="_blank"> <img height="55" width="75" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/dvc.png"/> </a>
 <a href="https://dagshub.com/yuvaneshkm" target="_blank"> <img height="55" width="115" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/dagshub.png"/> </a>
 <a href="https://airflow.apache.org/docs/apache-airflow/2.0.2/python-api-ref.html" target="_blank"> <img height="55" width="115" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/airflow.png"/> </a>
-
+<br/>
 
 ## 📊 My GitHub Stats
-<br/>
 <a href="https://github.com/yuvaneshkm/github-readme-stats"><img alt="Yuvanesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yuvaneshkm&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <a href="https://github.com/yuvaneshkm/github-readme-stats"><img alt="Yuvanesh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvaneshkm&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
