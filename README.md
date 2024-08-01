@@ -49,6 +49,7 @@
 ## 🛠️ Tools
 <a href="https://git-scm.com/doc" target="_blank"> <img height="50" width="100" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/git.png"/> </a>
 <a href="https://github.com/yuvaneshkm" target="_blank"> <img height="50" width="50" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/github.png"/> </a>
+<a href="https://docs.github.com/en/actions" target="_blank"> <img height="50" width="50" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/githubactions.png"/> </a>
 
 
 
