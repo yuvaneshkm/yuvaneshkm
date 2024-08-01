@@ -17,6 +17,7 @@
 
 
 ## 🧑‍💻 I Code in
+
 <a href="https://docs.python.org/3/" target="_blank"> <img height="50" width="50" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/python.png"/> </a>
 <a href="https://www.w3schools.com/sql/default.asp" target="_blank"> <img height="50" width="50" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/sql.png"/> </a>
 
@@ -24,7 +25,6 @@
 <a href="https://scipy.org/" target="_blank"> <img height="50" width="50" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/scipy.png"/> </a>
 <a href="https://pandas.pydata.org/docs/" target="_blank"> <img height="50" width="95" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/pandas.png"/> </a>
 <a href="https://www.nltk.org/" target="_blank"> <img height="65" width="65" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/nltk.png"/> </a>
-
 
 <a href="https://matplotlib.org/stable/index.html" target="_blank"> <img height="50" width="50" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/matplotlib.png"/> </a>
 <a href="https://seaborn.pydata.org/" target="_blank"> <img height="50" width="50" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/seaborn.png"/> </a>
@@ -37,17 +37,16 @@
 <a href="https://www.tensorflow.org/api_docs/python/tf/all_symbols" target="_blank"> <img height="50" width="50" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/tensorflow.png"/> </a>
 <a href="https://keras.io/api/" target="_blank"> <img height="50" width="50" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/keras.png"/> </a>
 
+<a href="https://docs.streamlit.io/" target="_blank"> <img height="50" width="50" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/streamlit.png"/> </a>
 
 
-
-
-
-## 🛢 Databases I use
+## 🛢 Databases
 <a href="https://dev.mysql.com/doc/" target="_blank"> <img height="50" width="50" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/mysql.png"/> </a>
 <a href="https://www.mongodb.com/docs/" target="_blank"> <img height="50" width="100" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/mongodb.png"/> </a>
  
 
-## 🛠️ Tools I Use
+## 🛠️ Tools
+
 
 
 
