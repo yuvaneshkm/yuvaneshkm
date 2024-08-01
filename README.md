@@ -42,7 +42,7 @@
 
 ## 🛢 Databases
 <a href="https://dev.mysql.com/doc/" target="_blank"> <img height="50" width="50" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/mysql.png"/> </a>
-<a href="https://www.mongodb.com/docs/" target="_blank"> <img height="50" width="100" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/mongodb.png"/> </a>
+<a href="https://www.mongodb.com/docs/" target="_blank"> <img height="60" width="100" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logos/mongodb.png"/> </a>
  
 
 ## 🛠️ Tools
