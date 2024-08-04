@@ -9,7 +9,7 @@
 
 - 👨‍💻 Here's my Portfolio **[yuvaneshkm](https://github.com/yuvaneshkm)**
 
-- 🌱 I’m currently learning **Deep Learning and NLP**
+- 🌱 I’m currently learning **MLOps**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
