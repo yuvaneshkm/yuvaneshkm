@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **yuvaneshkm05@gmail.com**
 
-- ⚡ Fun fact: **Data will reveal it's secrets to those who are willing to listen and I am here, The Data Whisperer**
+- ⚡ Fun fact: **Data will reveal it's secrets to those who are willing to listen**
 
 ## 🧑‍💻 I Code in
 
