@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Diamond Price Prediction](https://github.com/yuvaneshkm/diamond-price-prediction)
 
-- 🌱 I’m currently learning **NLTK and Deep Learning**
+- 🌱 I’m currently learning **Machine Learning and Math**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
