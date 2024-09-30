@@ -8,19 +8,19 @@
 
 - 🌐 Here's my Portfolio **[yuvaneshkm](https://github.com/yuvaneshkm)**
 
-- 🔭 I’m currently working on [Diamond Price Prediction](https://github.com/yuvaneshkm/diamond-price-prediction)
+- 🔭 I’m currently working on [Phishing Domain Detection](https://github.com/yuvaneshkm/phishing-domain-detection)
 
-- 🌱 I’m currently learning **Machine Learning and Math**
+- 🌱 I’m currently learning **MLOps**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
-- 🤝 I’m looking for **Machine Learning Engineer Intern Roles**
+- 🤝 I’m looking for **Machine Learning Engineer Roles**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yuvaneshkm](https://github.com/yuvaneshkm)
 
 - 📝 I regularly write articles on [https://yuvaneshkm.medium.com/](https://yuvaneshkm.medium.com/)
 
-- 💬 Ask me about **How to teach a Machine**
+- 💬 Ask me about **AI/ML/MLOps/Data Science**
 
 - 📫 How to reach me **yuvaneshkm05@gmail.com**
 
