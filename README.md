@@ -6,15 +6,15 @@
 
 <image align="right" alt="coding" width="400" height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTl5bDYyNTF6OGZiNDlwcTV2NXBxaWs5N2gyYmlmNDRvYWtxcDc3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif">
 
-- 🌐 Here's my Portfolio **[yuvaneshkm](https://github.com/yuvaneshkm)**
+- 🌐 Here's my Portfolio **[yuvaneshkm](https://yuvaneshkm.github.io/)**
 
-- 🔭 I’m currently working on [Phishing Domain Detection](https://github.com/yuvaneshkm/phishing-domain-detection)
+- 🔭 I’m currently working on [Diamond Price Prediction](https://github.com/yuvaneshkm/diamond-price-prediction)
 
 - 🌱 I’m currently learning **MLOps**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
-- 🤝 I’m looking for **Machine Learning Engineer Roles**
+- 🤝 I’m looking for **Junior Data Scientist Roles**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yuvaneshkm](https://github.com/yuvaneshkm)
 
@@ -23,8 +23,6 @@
 - 💬 Ask me about **AI/ML/MLOps/Data Science**
 
 - 📫 How to reach me **yuvaneshkm05@gmail.com**
-
-- ⚡ Fun fact: **Data will reveal it's secrets to those who are willing to listen**
 
 ## 🧑‍💻 I Code in
 
@@ -93,7 +91,7 @@
 
 ## 🤝 Connect with me
 
-<a href = "https://github.com/yuvaneshkm"><img src="https://img.icons8.com/color/48/000000/domain--v1.png"/>
+<a href = "https://yuvaneshkm.github.io/"><img src="https://img.icons8.com/color/48/000000/domain--v1.png"/>
 &nbsp;&nbsp;&nbsp;
 <a href = "https://www.linkedin.com/in/yuvaneshkm/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 &nbsp;&nbsp;&nbsp;
