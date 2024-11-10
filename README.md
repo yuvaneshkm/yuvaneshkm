@@ -8,9 +8,7 @@
 
 - 🌐 Here's my Portfolio **[yuvaneshkm](https://yuvaneshkm.github.io/)**
 
-- 🔭 I’m currently working on [Diamond Price Prediction](https://github.com/yuvaneshkm/diamond-price-prediction)
-
-- 🌱 I’m currently learning **MLOps**
+- 🌱 I’m currently learning **DSA**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
@@ -20,7 +18,7 @@
 
 - 📝 I regularly write articles on [https://yuvaneshkm.medium.com/](https://yuvaneshkm.medium.com/)
 
-- 💬 Ask me about **AI/ML/MLOps/Data Science**
+- 💬 Ask me about **AI | ML | MLOps | Data Science**
 
 - 📫 How to reach me **yuvaneshkm05@gmail.com**
 
@@ -39,6 +37,8 @@
 <a href="https://plotly.com/python/" target="_blank"> <img height="50" width="45" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logo/plotly.png"/> </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://learn.microsoft.com/en-us/power-bi/" target="_blank"> <img height="50" width="40" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logo/powerbi.png"/> </a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://docs.streamlit.io/" target="_blank"> <img height="50" width="70" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logo/streamlit.png"/> </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://docs.streamlit.io/" target="_blank"> <img height="50" width="70" src="https://github.com/yuvaneshkm/yuvaneshkm/blob/main/logo/streamlit.png"/> </a>
 
