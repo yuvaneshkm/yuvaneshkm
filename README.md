@@ -1,4 +1,4 @@
-## 👋 Hey there, I’m Yuvanesh (Open-Source Animal Lover)!
+## 👋 Hey there, I’m Yuvanesh 🦉(Open-Source Animal Lover)!
 
 🐍 **Data Engineer in the Making** | 🛠️ **Open Source Enthusiast** | 🚀 Learning by building cool things
 
@@ -6,7 +6,6 @@
 
 ### 🐾 I don’t just write code — I tame Open-Source beasts for Engineering Data Pipelines:
 - 🐍 **Python** to process logic
-- 🐧 **Linux** to run it
 - 🐘 **PostgreSQL** to store data
 - 🐝 **Hive** to query big data
 - 🐼 **Pandas** to analyze it
@@ -14,6 +13,7 @@
 - 🦆 **DuckDuckGo** to search freely
 - 🦊 **Firefox** to browse the docs
 - 🐞 **Bugs** to debug relentlessly
+- 🐧 **Linux** to run it all
 - 🐱 **GitHub** to share my journey with the world
 
 ---
