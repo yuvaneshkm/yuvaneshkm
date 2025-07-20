@@ -1,6 +1,6 @@
 ## 👋 Hey there, I’m Yuvanesh (Open-Source Animal Lover)!
 
-🐍 **Data Engineer in the making** | 🛠️ **Open Source enthusiast** | 🚀 Learning by building cool things
+🐍 **Data Engineer in the Making** | 🛠️ **Open Source Enthusiast** | 🚀 Learning by building cool things
 
 ---
 
