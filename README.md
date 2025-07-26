@@ -2,9 +2,8 @@
 <h5 align="center">Data Engineer in the Making | Open Source Enthusiast | Learning by building cool things</h5>
 <h3 align="center">Build | Optimize | Scale</h3>
 
-<image align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
 ---
+<image align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 ### I don’t just love animals — I code with them 🐾
 - 🐍 **Python** to process logic
