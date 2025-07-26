@@ -3,8 +3,9 @@
 <h3 align="center">Build | Optimize | Scale</h3>
 
 ---
-<!-- Data Engineer Pipeline GIF (by Aditi Khinvasara) -->
-<img align="right" alt="data engineer pipeline" width="400" src="https://media.licdn.com/dms/image/D4D22AQHiOBxULZ-0JQ/feedshare-shrink_800/0/1685531735740?e=2147483647&v=beta&t=stfDG-PhTRWl7LaSmDCwKNOgT5Ae_1Qpl-RRXbg-BnU">
+<!-- Data Engineer Pipeline GIF (hosted on Imgur) -->
+<img align="right" alt="data engineer pipeline" width="400" src="https://i.imgur.com/qXkL1Xv.gif">
+
 
 ### **I don’t just love animals — I code with them 🐾**
 - 🐍 **Python** to process logic
