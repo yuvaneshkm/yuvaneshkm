@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuvanesh</h1>
-**Data Engineer in the Making** | **Open Source Enthusiast** | **Learning by building cool things**
+<b align="center">**Data Engineer in the Making** | **Open Source Enthusiast** | **Learning by building cool things**</b>b>
 <h3 align="center">Build | Optimize | Scale</h3>
 
 ---
