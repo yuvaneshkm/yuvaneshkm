@@ -4,7 +4,7 @@
 
 ---
 
-### 🐾 I don’t just write code — I tame Open-Source beasts for Engineering Data Pipelines:
+### I don’t just love animals — I code with them 🐾
 - 🐍 **Python** to process logic
 - 🐘 **PostgreSQL** to store data
 - 🐝 **Hive** to query big data
@@ -37,6 +37,4 @@
 - 🐙 [GitHub](https://github.com/yuvaneshkm)
 
 ---
-
-### 💡 Fun Fact
-> I don’t just love animals — I code with them 🐾
+[![Yuvanesh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yuvaneshkm&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
