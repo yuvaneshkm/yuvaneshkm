@@ -38,11 +38,25 @@
 - 🐙 [GitHub](https://github.com/yuvaneshkm)
 
 ---
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvaneshkm&theme=github-compact&" alt="yuvaneshkm" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=yuvaneshkm&show_icons=true&theme=github-compact&locale=en" alt="yuvaneshkm" /></p>
+<!-- GitHub Stats Widgets in Dark Mode -->
+
+<!-- Streak Stats (Left) -->
+<p>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvaneshkm&theme=dark" alt="GitHub Streak Stats" />
+</p>
+
+<!-- GitHub Stats (Right) -->
+<p>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=yuvaneshkm&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
+</p>
+
+<!-- Clear floats for next section -->
+<br clear="both" />
 <br>
-<br>
 
-
-
-[![Yuvanesh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yuvaneshkm&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- GitHub Activity Graph -->
+<p>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvaneshkm&theme=react-dark" alt="GitHub Activity Graph" />
+  </a>
+</p>
