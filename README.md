@@ -3,10 +3,6 @@
 <h3 align="center">Build | Optimize | Scale</h3>
 
 ---
-<!-- Data Engineer Pipeline GIF (hosted on Imgur) -->
-<img align="right" alt="data engineer pipeline" width="400" src="https://i.imgur.com/qXkL1Xv.gif">
-
-
 ### **I don’t just love animals — I code with them 🐾**
 - 🐍 **Python** to process logic
 - 🐘 **PostgreSQL** to store data
