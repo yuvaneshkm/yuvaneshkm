@@ -38,9 +38,10 @@
 - 🐙 [GitHub](https://github.com/yuvaneshkm)
 
 ---
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sritharun242004&" alt="sritharun242004" /></p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sritharun242004&show_icons=true&locale=en" alt="sritharun242004" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvaneshkm&theme=github-compact&" alt="yuvaneshkm" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=yuvaneshkm&show_icons=true&theme=github-compact&locale=en" alt="yuvaneshkm" /></p>
+<br>
+<br>
 
 
 
