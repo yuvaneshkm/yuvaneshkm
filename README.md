@@ -3,7 +3,8 @@
 <h3 align="center">Build | Optimize | Scale</h3>
 
 ---
-<image align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<!-- Data Engineer Pipeline GIF (by Aditi Khinvasara) -->
+<img align="right" alt="data engineer pipeline" width="400" src="https://media.licdn.com/dms/image/D4D22AQHiOBxULZ-0JQ/feedshare-shrink_800/0/1685531735740?e=2147483647&v=beta&t=stfDG-PhTRWl7LaSmDCwKNOgT5Ae_1Qpl-RRXbg-BnU">
 
 ### **I don’t just love animals — I code with them 🐾**
 - 🐍 **Python** to process logic
