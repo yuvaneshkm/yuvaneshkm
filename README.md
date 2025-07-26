@@ -1,5 +1,6 @@
-## 👋 Hey there, I’m Yuvanesh!
+<h1 align="center">Hi 👋, I'm Yuvanesh</h1>
 **Data Engineer in the Making** | **Open Source Enthusiast** | **Learning by building cool things**
+<h3 align="center">Build | Optimize | Scale</h3>
 
 ---
 
