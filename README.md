@@ -35,7 +35,7 @@
 
 <!-- Row 1 -->
 <p>
-  <a href="mailto:yuvanesh.kummaramoorthy@gmail.com" target="_blank">
+  <a href="mailto:yuvaneshkm05@gmail.com" target="_blank">
     <img src="icons/gmail.svg" alt="Email" width="60" height="60" />
   </a>
   <a href="https://yuvanesh.dev" target="_blank">
